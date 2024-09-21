@@ -352,11 +352,16 @@ li:hover a {
 
     margin-left: 200px;
 
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
 }
 
 .pic {
     width: 300px;
     height: 200px;
+
 
 }
 

@@ -360,6 +360,26 @@ li>a {
     margin-top: 80px;
 }
 
+.hr_border2 {
+
+    border: none;
+    border-bottom: 2px dotted rgb(195, 181, 59);
+    margin-left: 0px;
+    height: 2px;
+    border-width: 2px;
+    width: 200px;
+    margin-top: 40px;
+
+
+}
+
+.num2 {
+    margin-left: 0;
+    margin-top: 30px;
+    font-size: 25px;
+    color: #090c00;
+}
+
 .hr_border {
     border: none;
     border-bottom: 4px solid #040800;
@@ -554,7 +574,7 @@ li>a {
 .bg_img {
     height: 60px;
     width: 80px;
-    margin-top: 50px;
+    margin-top: 30px;
 }
 
 .number0 h1 {
@@ -594,7 +614,11 @@ li>a {
 .layout {
     display: flex;
     margin-top: 160px;
+
 }
+
+
+
 
 .too {
     height: 180px;
@@ -602,6 +626,8 @@ li>a {
     margin-left: 0;
     /* padding: 10px; */
     margin-top: -100px;
+
+
 
 }
 

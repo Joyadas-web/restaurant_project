@@ -442,11 +442,12 @@ li:hover a {
     /* background-color: #01003f; */
     display: flex;
 
+
 }
 
-.your-class:hover .box {
+/* .your-class:hover .box {
     transform: scale(1.1);
-}
+} */
 
 .box2 {
     height: 340px;
@@ -454,6 +455,7 @@ li:hover a {
     margin-top: -230px;
     background-color: #ebf1f4;
     margin-left: 136px;
+
 }
 
 .box2 h1 {
@@ -596,7 +598,7 @@ li:hover a {
     text-align: center;
     font-family: roboto;
     font-style: italic;
-    color: #9be1a1;
+    color: #12db76;
 }
 
 .joya2 {
@@ -628,7 +630,8 @@ li:hover a {
     font-family: roboto;
     font-style: italic;
     border: none;
-    background-color: #11e94e3c;
+    background-color: #08ff4e56;
+
 
 }
 
@@ -723,10 +726,10 @@ li:hover a {
 
 .layout img {
     height: 180px;
-    width: 280px;
-    margin-left: 5px;
-    padding: 5px;
-    margin-top: 10px;
+    width: 300px;
+    /* margin-left: 5px; */
+    /* padding: 5px; */
+    /* margin-top: 30px; */
 
 }
 
@@ -735,6 +738,7 @@ li:hover a {
     background-color: #fff;
     margin-left: 100px;
     height: 450px;
+    overflow: hidden;
 
 }
 
@@ -1080,10 +1084,16 @@ li>a {
 .your-class3 {
     display: flex;
     margin-top: 60px;
-    margin-left: 10px;
+    margin-left: 300px;
+    width: 1000px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
 
 
 }
+
+
 
 .contain {
     gap: 10px;
