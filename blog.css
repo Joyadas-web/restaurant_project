@@ -4,7 +4,7 @@
 }
 
 .cover_photo {
-    background-image: url(./halwai-for-hostal-canteen.jpg);
+    background-image: url(./BullBelllead.jpg);
     background-size: cover;
     height: 600px;
 }
@@ -246,15 +246,15 @@ li:hover a {
     font-size: 100px;
     text-align: center;
     justify-content: center;
-    margin-top: 0 auto;
-    padding-top: 60px;
-    color: rgb(12, 12, 12);
+    margin-top: -90px;
+
+    color: rgb(16, 16, 16);
 }
 
 .text2 {
     font-size: 30px;
     margin-left: 450px;
-    color: #cd6e6e;
+    color: #0d0d0e;
 }
 
 .sailder {
