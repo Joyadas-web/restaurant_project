@@ -4,7 +4,7 @@
 }
 
 .cover_photo {
-    background-image: url(./images\ \(3\).jpeg);
+    background-image: url(./food8.webp);
     background-size: cover;
     height: 600px;
 }
@@ -251,14 +251,14 @@ li:hover a {
     text-align: center;
     justify-content: center;
     margin-top: 0 auto;
-    padding-top: 200px;
-    color: rgba(243, 244, 239, 0.866);
+    padding-top: 300px;
+    color: rgb(232, 17, 142);
 }
 
 .text2 {
-    font-size: 30px;
-    margin-left: 450px;
-    color: #a9a2a2;
+    font-size: 40px;
+    margin-left: 350px;
+    color: #6c12d2;
 }
 
 .second_page {
