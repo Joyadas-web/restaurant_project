@@ -1287,3 +1287,280 @@ li>a {
     margin-top: 10px;
     color: #fff;
 }
+
+@media only screen and (max-width:600px) {
+    .main_manu {
+        display: none;
+    }
+
+    .text {
+        font-size: 40px;
+
+    }
+
+    .cover {
+
+        width: 1000px;
+    }
+
+    .restaurant_pic {
+
+        margin-left: 500px;
+    }
+
+    .second_page {
+
+        width: 1000px;
+    }
+
+    .hr_border {
+
+        margin-left: 450px;
+
+    }
+
+    .slick-slide img {
+        width: 100px;
+        margin-left: -200px;
+    }
+
+    .food {
+
+        margin-left: 100px;
+
+    }
+
+    .picture1 {
+
+        margin-left: 100px;
+    }
+
+    .header2 p {
+        font-size: 18px;
+        margin-top: 80px;
+    }
+
+    .sing {
+        margin-left: 450px;
+        margin-top: -100px;
+    }
+
+    .header_m {
+
+        width: 1000px;
+    }
+
+    .slick-slide img {
+
+        margin-left: 10px;
+    }
+
+    .box2 {
+        height: 400px;
+        width: 600px;
+        margin-top: -230px;
+        background-color: #ebf1f4;
+        margin-left: 10px;
+    }
+
+    .box2 h1 {
+        font-size: 20px;
+        margin-left: 250px;
+        color: #120e0e;
+    }
+
+    .box2 h2 {
+        font-size: 15px;
+        margin-top: -20px;
+        margin-left: 300px;
+        color: #000;
+    }
+
+    .bto {
+        padding: 5px 10px;
+        background: hsla(140, 43%, 61%, 0.803);
+        border: 2px solid hsl(180, 33%, 98%);
+        border-radius: 6px;
+        font-size: 12px;
+        color: #fbfbfe;
+        letter-spacing: 2px;
+        font-weight: 600;
+        margin-top: -40px;
+        /* margin-left: 20px; */
+    }
+
+    .seven_page {
+
+        width: 1000px;
+    }
+
+    .slick-prev:before {
+        content: '←';
+        margin-left: -200px;
+    }
+
+    .slick-next:before {
+        content: '→';
+        margin-left: 100px;
+    }
+
+    .joya2 {
+        /* border-bottom: 2px solid rgb(248, 243, 243); */
+        width: 900px;
+
+        margin-left: 40px;
+
+    }
+
+    .button {
+
+        margin-left: 400px;
+
+    }
+
+    .third_page {
+
+        width: 1000px;
+    }
+
+    .layout {
+
+        flex-wrap: nowrap;
+
+    }
+
+    .layout {
+        display: flex;
+        gap: 0;
+
+        margin-left: -70px;
+
+    }
+
+    .must {
+        width: 96%;
+        height: 660px;
+        padding: 20px;
+        background-color: rgba(0, 0, 0, 0.558);
+    }
+
+    .forth_page h1 {
+        margin-left: 400px;
+        font-size: 30px;
+    }
+
+    .forth_page h1 {
+        font-size: 20px;
+        margin-left: 20px;
+    }
+
+    .forth_page h3 {
+        font-size: 20px;
+
+        margin-left: 400px;
+    }
+
+    .number5 {
+        font-size: 20px;
+        margin-left: 20px;
+        color: #010900;
+    }
+
+    .fifth {
+
+        font-size: 20px;
+        margin-left: 400px;
+    }
+
+    .forth_page h1 {
+        font-size: 20px;
+    }
+
+    .number_ber {
+
+        margin-left: 100px;
+    }
+
+    .end {
+        margin-left: 400px;
+        font-size: 20px;
+        text-align: center;
+        color: #000e02;
+    }
+
+    .coffee {
+        width: 1000px;
+
+    }
+
+    .slick-slide img {
+        margin-left: 450px;
+    }
+
+    .six_page {
+
+        width: 1000px;
+    }
+
+    .six_page h1 {
+        margin-left: -100px;
+        font-size: 30px;
+
+    }
+
+    .row {
+        border-bottom: 2px solid black;
+        width: 250px;
+        height: 40px;
+        border: 3px solid rgb(245, 248, 246);
+        margin-top: 80px;
+        /* padding-top: 30px; */
+        margin-left: 300px;
+    }
+
+    .six_page h1 {
+        margin-left: 20px;
+        font-size: 15px;
+    }
+
+    .eight_page {
+
+        width: 1000px;
+    }
+
+    .ses {
+
+        width: 1000px;
+    }
+
+    .ses h1 {
+        font-size: 20px;
+
+        margin-left: -250px;
+        margin-top: 40px;
+    }
+
+    .lastpage h2 {
+        font-size: 15px;
+        margin-left: 90px;
+        margin-top: -70px;
+        color: #f4f8f5;
+    }
+
+    .finis h2 {
+        font-size: 15px;
+        margin-top: -70px;
+        margin-left: 90px;
+        color: #f9f6f6;
+    }
+
+    .contact_info {
+        font-size: 20px;
+        top: 10px;
+        color: #fff;
+    }
+
+    .slick-slide img {
+        /* width: 100px; */
+    }
+}
