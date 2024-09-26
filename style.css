@@ -1285,10 +1285,11 @@ li>a {
 
 .why {
     margin-top: 10px;
-    color: #fff;
+    color: #fff
 }
 
-@media only screen and (max-width:600px) {
+
+/* @media only screen and (max-width:600px) {
     .main_manu {
         display: none;
     }
@@ -1302,6 +1303,8 @@ li>a {
 
         width: 1000px;
     }
+
+
 
     .restaurant_pic {
 
@@ -1387,7 +1390,7 @@ li>a {
         font-weight: 600;
         margin-top: -40px;
         /* margin-left: 20px; */
-    }
+/* }
 
     .seven_page {
 
@@ -1404,9 +1407,9 @@ li>a {
         margin-left: 100px;
     }
 
-    .joya2 {
-        /* border-bottom: 2px solid rgb(248, 243, 243); */
-        width: 900px;
+    .joya2 { */
+/* border-bottom: 2px solid rgb(248, 243, 243); */
+/* width: 900px;
 
         margin-left: 40px;
 
@@ -1515,10 +1518,10 @@ li>a {
         border: 3px solid rgb(245, 248, 246);
         margin-top: 80px;
         /* padding-top: 30px; */
-        margin-left: 300px;
-    }
+/* margin-left: 300px;
+    } */
 
-    .six_page h1 {
+/* .six_page h1 {
         margin-left: 20px;
         font-size: 15px;
     }
@@ -1558,9 +1561,13 @@ li>a {
         font-size: 20px;
         top: 10px;
         color: #fff;
+    } */
+
+/* .slick-slide img {
+        margin-left: 10px;
+        width: 300px;
     }
 
-    .slick-slide img {
-        /* width: 100px; */
-    }
-}
+    .slick-slide img .pic {
+        width: 40px;
+    } */
