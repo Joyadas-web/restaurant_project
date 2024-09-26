@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-.pho {
+.first-section {
     background-image: url(./BullBelllead.jpg);
     background-size: cover;
     height: 600px;
@@ -211,13 +211,13 @@ li:hover a {
     display: flex;
 }
 
-.true {
+/* .true {
 
 
     width: 50%;
 
     font-size: 20px;
-}
+} */
 
 /* .manu h1{
     font-size: 16px;
@@ -357,7 +357,7 @@ li:hover a {
 .hr_border {
     border: none;
     border-bottom: 4px solid #040800;
-    margin-left: 700px;
+    margin-left: 670px;
     height: 8px;
     border-width: 4px;
     width: 100px;
@@ -426,13 +426,13 @@ li:hover a {
     font-size: 20px;
 }
 
-.four {
+.section-four {
     height: 700px;
     background-color: hsla(210, 29%, 97%, 0.894);
     margin-left: 40px;
 }
 
-.four h1 {
+.section-four h1 {
     font-size: 50px;
     text-align: center;
     margin-top: 0 auto;
@@ -440,7 +440,7 @@ li:hover a {
     color: #44764d;
 }
 
-.four h3 {
+.section-four h3 {
     font-size: 30px;
     text-align: center;
     font-family: roboto;
@@ -448,7 +448,7 @@ li:hover a {
     color: #0a0a0a;
 }
 
-.four3 h1 {
+.content h1 {
     font-size: 18px;
     text-align: center;
     margin-top: 0 auto;
@@ -456,7 +456,7 @@ li:hover a {
     color: #44764d;
 }
 
-.four3 p {
+.content p {
     font-size: 20px;
     text-align: center;
     font-family: roboto;
@@ -464,13 +464,13 @@ li:hover a {
     color: #0a0a0a;
 }
 
-.four3 {
+.content {
     display: flex;
     gap: 30px;
     margin-left: 100px;
 }
 
-.ppp {
+.pic-ber {
     height: 300px;
     width: 270px;
 }
@@ -503,7 +503,7 @@ li:hover a {
 
 }
 
-.coffee {
+.third-page {
     flex-direction: column;
     font-family: roboto;
     color: rgb(249, 250, 249);
@@ -708,26 +708,26 @@ li>a {
 
 }
 
-.fly {
+.six-page {
     background: #b8a9a9;
     height: 200px;
 }
 
-.rool {
+.title2 {
     display: flex;
     margin-left: 150px;
 
     font-size: 25px;
 }
 
-.rool p {
+.title2 p {
     font-size: 17px;
 
     margin-top: 100px;
     margin-left: 20px;
 }
 
-.rool h1 {
+.title2 h1 {
     font-size: 50px;
     margin-top: 60px;
 }
@@ -750,7 +750,7 @@ li>a {
     margin-top: 5px;
 }
 
-.hello {
+.btn-ber2 {
     margin-top: -15px;
 }
 
@@ -772,27 +772,27 @@ li>a {
 
 .eight_page {
     display: flex;
-    background: url(./ahdoos-1.jpg.webp);
+    background: url(./background.jpg);
     background-size: cover;
     gap: 90px;
     height: 500px;
 
 }
 
-.ten {
+.footer-section1 {
     margin-left: 40px;
     margin-top: 150px;
 }
 
-.ten h1 {
+.footer-section1 h1 {
     font-size: 30px;
-    color: #121111;
+    color: #fff;
 }
 
-.ten p {
-    font-size: 15px;
+.footer-section1 p {
+    font-size: 17px;
     margin-top: 20px;
-    color: #0c0c0c;
+    color: #f8f6f6;
 }
 
 .photo {
@@ -802,96 +802,100 @@ li>a {
 
 }
 
+.footer-section2 {
+    margin-top: 145px;
+}
+
+.footer-section2 h1 {
+    font-size: 33px;
+    color: #fff;
+}
+
 .lastpage h2 {
     font-size: 18px;
     margin-left: 90px;
     margin-top: -70px;
-    color: #0f0f0f;
+    color: #f4f8f5;
 }
 
-.finis img {
+.last-footer img {
     width: 80px;
     height: 70px;
     margin-top: 30px;
 }
 
-.nine {
+.footer-section1 {
     margin-top: 150px;
     /* margin-left: ;
      */
 }
 
-.finis h2 {
+.last-footer h2 {
     font-size: 18px;
     margin-top: -70px;
     margin-left: 90px;
-    color: #090909;
+    color: #f9f6f6;
 }
 
-.nine h1 {
+.footer-section1 h1 {
     font-size: 30px;
-    color: #020000;
+    color: #fff;
 }
 
-.saraboni {
+.footer-social-icons {
     margin-top: 150px;
 }
 
-.saraboni h1 {
+.footer-social-icons h1 {
     font-size: 30px;
-    color: #040404;
+    color: #fff;
 }
 
 .social_info {
-    font-size: 32px;
+    font-size: 35px;
     margin-top: 20px;
     color: #fff;
-    border-bottom: 2px solid rgba(255, 252, 252, 0.859);
-    border: 6px solid rgba(82, 82, 82, 0.788);
+    border-bottom: 2px solid black;
+    border: 6px solid rgba(0, 0, 0, 0.381);
     width: 250px;
-    background-color: #fff;
+    background-color: #cdcaca9f;
+
 }
 
 .fa-facebook-official {
     margin-left: 10px;
     font-size: 25px;
     margin-top: 10px;
-
 }
 
 .fa-twitter {
     margin-left: 10px;
     font-size: 25px;
-
 }
 
 .fa-instagram {
     margin-left: 10px;
     font-size: 25px;
-    color: #fff;
 }
 
 .fa-linkedin-square {
     margin-left: 10px;
     font-size: 25px;
-    color: #fff;
 }
 
 .fa-linkedin {
     margin-left: 10px;
     font-size: 25px;
-    color: #fff;
 }
 
 .fa-pinterest-p {
     margin-left: 10px;
     font-size: 25px;
-    color: #fff;
 }
 
-.ses {
+.footer-copyrights {
     display: flex;
-    background-color: #99b298a7;
+    background-color: #959895a7;
     height: 100px;
 
 
@@ -903,28 +907,31 @@ li>a {
 
 }
 
-.level {
+.footer-ber {
     display: flex;
 }
 
-.level i {
-    color: #060606;
+.footer-ber i {
+    color: #fcf9f9;
 }
 
-.level h3 {
-    color: #111111;
+.footer-ber h3 {
+    color: #f2efef;
 }
 
-.ses i {
+
+.fa-copyright {
+
     font-size: 20px;
-    color: #0a0a0a;
-    margin-left: 500px;
+    color: #0e0e0e;
+    margin-left: 540px;
     margin-top: 40px;
 }
 
-.ses h1 {
+
+.footer-copyrights h1 {
     font-size: 20px;
-    color: #0e0e0e;
+    color: #0d0d0d;
     text-align: center;
     margin-left: 5px;
     margin-top: 40px;
@@ -933,25 +940,25 @@ li>a {
 .contact_info {
     font-size: 25px;
     top: 10px;
-    color: #0c0c0c;
+    color: #fff;
 }
 
 .social_info i {
     gap: 20px;
-    color: #131212;
+    color: #fff;
 }
 
-.how {
+.footer-address {
     margin-top: 10px;
-    color: #0b0b0b;
+    color: #f5f3f3;
 }
 
-.what {
+.footer-number {
     margin-top: 10px;
-    color: #020202;
+    color: #fff;
 }
 
-.why {
+.footer-gmail {
     margin-top: 10px;
-    color: #000000;
+    color: #fff
 }

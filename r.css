@@ -329,7 +329,7 @@ li:hover a {
 
 }
 
-.joya2 {
+.from-section {
     /* border-bottom: 2px solid rgb(248, 243, 243); */
     width: 1000px;
     height: 400px;
@@ -342,7 +342,7 @@ li:hover a {
     font-size: 30px;
 }
 
-.right {
+.from-box {
     margin-top: 100px;
     font-family: roboto;
     font-style: italic;
@@ -362,7 +362,7 @@ li:hover a {
 
 }
 
-.boll {
+.button-ber {
     margin-top: -80px;
     margin-left: -10px;
     color: #251a49;
@@ -410,7 +410,7 @@ li:hover a {
 
 
 
-.joya3 h3 {
+.reservation-footer h3 {
     font-size: 30px;
     font-family: roboto;
     font-style: italic;
@@ -482,7 +482,7 @@ li:hover a {
 
 .eight_page {
     display: flex;
-    background: url(./ahdoos-1.jpg.webp);
+    background: url(./coffe.webp);
     background-size: cover;
     gap: 90px;
     height: 500px;
@@ -500,9 +500,9 @@ li:hover a {
 }
 
 .footer-section1 p {
-    font-size: 15px;
+    font-size: 17px;
     margin-top: 20px;
-    color: #fff;
+    color: #fbf9f9;
 }
 
 .photo {
@@ -568,7 +568,7 @@ li:hover a {
     border-bottom: 2px solid black;
     border: 6px solid rgba(0, 0, 0, 0.381);
     width: 250px;
-    background-color: #c86e6e9f;
+    background-color: #aba4a49f;
 
 }
 
@@ -633,7 +633,7 @@ li:hover a {
 .fa-copyright {
 
     font-size: 20px;
-    color: #f3efef;
+    color: #0a0a0a;
     margin-left: 540px;
     margin-top: 40px;
 }
@@ -641,7 +641,7 @@ li:hover a {
 
 .footer-copyrights h1 {
     font-size: 20px;
-    color: #faf7f7;
+    color: #0b0b0b;
     text-align: center;
     margin-left: 5px;
     margin-top: 40px;

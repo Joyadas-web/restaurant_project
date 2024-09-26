@@ -756,9 +756,9 @@ li>a {
 }
 
 .footer-section1 p {
-    font-size: 15px;
+    font-size: 17px;
     margin-top: 20px;
-    color: #fff;
+    color: #0a0a0a;
 }
 
 .photo {
@@ -889,7 +889,7 @@ li>a {
 .fa-copyright {
 
     font-size: 20px;
-    color: #f3efef;
+    color: #0f0f0f;
     margin-left: 540px;
     margin-top: 40px;
 }
@@ -897,7 +897,7 @@ li>a {
 
 .footer-copyrights h1 {
     font-size: 20px;
-    color: #faf7f7;
+    color: #0e0d0d;
     text-align: center;
     margin-left: 5px;
     margin-top: 40px;

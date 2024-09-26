@@ -4,7 +4,7 @@
 }
 
 .cover_photo {
-    background-image: url(./BullBelllead.jpg);
+    background-image: url(./food3.png);
     background-size: cover;
     height: 600px;
 }
@@ -211,17 +211,7 @@ li:hover a {
     display: flex;
 }
 
-.true {
 
-
-    width: 50%;
-
-    font-size: 20px;
-}
-
-/* .manu h1{
-    font-size: 16px;
-} */
 .span_ber {
     display: flex;
     margin-top: 10px;
@@ -258,20 +248,7 @@ li:hover a {
     color: rgba(158, 237, 12, 0.674);
 }
 
-.book {
-    height: 30px;
-    background: #0d7e41;
-    margin-top: -2px;
-    /* border-radius: 4px; */
-    font-size: 10px;
-    color: hsl(120, 12%, 97%);
-    letter-spacing: 1px;
-    font-weight: 600;
-    margin-left: 170px;
-    margin-right: 10px;
-    border: none;
-    padding: 5px;
-}
+
 
 .text {
     font-size: 100px;
@@ -279,13 +256,13 @@ li:hover a {
     justify-content: center;
     margin-top: -90px;
 
-    color: rgb(16, 16, 16);
+    color: rgb(251, 249, 249);
 }
 
 .text2 {
     font-size: 30px;
     margin-left: 450px;
-    color: #0d0d0e;
+    color: #fbfbfd;
 }
 
 .sailder {
@@ -354,7 +331,7 @@ li:hover a {
     -moz-osx-font-smoothing: grayscale;
 }
 
-.capital {
+.Header-title {
     font-size: 30px;
     margin-left: -220px;
     margin-top: 100px;
@@ -533,19 +510,26 @@ li:hover a {
 
 }
 
-.finis img {
+.lastpage h2 {
+    font-size: 18px;
+    margin-left: 90px;
+    margin-top: -70px;
+    color: #000;
+}
+
+.last-page img {
     width: 80px;
     height: 70px;
     margin-top: 30px;
 }
 
-.nine2 {
+.photo-page {
     margin-top: -50px;
     margin-left: 20px;
 
 }
 
-.finis h2 {
+.last-page h2 {
     font-size: 18px;
     margin-top: -70px;
     margin-left: 90px;
@@ -561,7 +545,7 @@ li:hover a {
 
 }
 
-.lastpage h2 {
+.lastpages h2 {
     font-size: 18px;
     margin-left: 90px;
     margin-top: -70px;
@@ -576,26 +560,26 @@ li:hover a {
     margin-top: 50px;
 }
 
-.fly {
+.six-page {
     background: #b8a9a9;
     height: 200px;
 }
 
-.rool {
+.title3 {
     display: flex;
     margin-left: 150px;
 
     font-size: 25px;
 }
 
-.rool p {
+.title3 p {
     font-size: 17px;
 
     margin-top: 100px;
     margin-left: 20px;
 }
 
-.rool h1 {
+.title3 h1 {
     font-size: 50px;
     margin-top: 60px;
 }
@@ -618,7 +602,7 @@ li:hover a {
     margin-top: 5px;
 }
 
-.hello {
+.btn-ber2 {
     margin-top: -15px;
 }
 
@@ -640,27 +624,27 @@ li:hover a {
 
 .eight_page {
     display: flex;
-    background: url(./ahdoos-1.jpg.webp);
+    background: url(./16.webp);
     background-size: cover;
     gap: 90px;
     height: 500px;
 
 }
 
-.ten {
+.footer-section1 {
     margin-left: 40px;
     margin-top: 150px;
 }
 
-.ten h1 {
+.footer-section1 h1 {
     font-size: 30px;
-    color: #121111;
+    color: #fff;
 }
 
-.ten p {
-    font-size: 15px;
+.footer-section1 p {
+    font-size: 17px;
     margin-top: 20px;
-    color: #0c0c0c;
+    color: #f9f8f8;
 }
 
 .photo {
@@ -670,96 +654,100 @@ li:hover a {
 
 }
 
+.footer-section2 {
+    margin-top: 145px;
+}
+
+.footer-section2 h1 {
+    font-size: 33px;
+    color: #fff;
+}
+
 .lastpage h2 {
     font-size: 18px;
     margin-left: 90px;
     margin-top: -70px;
-    color: #0f0f0f;
+    color: #f4f8f5;
 }
 
-.finis img {
+.last-footer img {
     width: 80px;
     height: 70px;
     margin-top: 30px;
 }
 
-.nine {
+.footer-section1 {
     margin-top: 150px;
     /* margin-left: ;
      */
 }
 
-.finis h2 {
+.last-footer h2 {
     font-size: 18px;
     margin-top: -70px;
     margin-left: 90px;
-    color: #090909;
+    color: #f9f6f6;
 }
 
-.nine h1 {
+.footer-section1 h1 {
     font-size: 30px;
-    color: #020000;
+    color: #fff;
 }
 
-.saraboni {
+.footer-social-icons {
     margin-top: 150px;
 }
 
-.saraboni h1 {
+.footer-social-icons h1 {
     font-size: 30px;
-    color: #040404;
+    color: #fff;
 }
 
 .social_info {
-    font-size: 32px;
+    font-size: 35px;
     margin-top: 20px;
     color: #fff;
-    border-bottom: 2px solid rgba(255, 252, 252, 0.859);
-    border: 6px solid rgba(82, 82, 82, 0.788);
+    border-bottom: 2px solid black;
+    border: 6px solid rgba(0, 0, 0, 0.381);
     width: 250px;
-    background-color: #fff;
+    background-color: #7e74749f;
+
 }
 
 .fa-facebook-official {
     margin-left: 10px;
     font-size: 25px;
     margin-top: 10px;
-
 }
 
 .fa-twitter {
     margin-left: 10px;
     font-size: 25px;
-
 }
 
 .fa-instagram {
     margin-left: 10px;
     font-size: 25px;
-    color: #fff;
 }
 
 .fa-linkedin-square {
     margin-left: 10px;
     font-size: 25px;
-    color: #fff;
 }
 
 .fa-linkedin {
     margin-left: 10px;
     font-size: 25px;
-    color: #fff;
 }
 
 .fa-pinterest-p {
     margin-left: 10px;
     font-size: 25px;
-    color: #fff;
 }
 
-.ses {
+.footer-copyrights {
     display: flex;
-    background-color: #99b298a7;
+    background-color: #959895a7;
     height: 100px;
 
 
@@ -771,28 +759,31 @@ li:hover a {
 
 }
 
-.level {
+.footer-ber {
     display: flex;
 }
 
-.level i {
-    color: #060606;
+.footer-ber i {
+    color: #fcf9f9;
 }
 
-.level h3 {
-    color: #111111;
+.footer-ber h3 {
+    color: #f2efef;
 }
 
-.ses i {
+
+.fa-copyright {
+
     font-size: 20px;
     color: #0a0a0a;
-    margin-left: 500px;
+    margin-left: 540px;
     margin-top: 40px;
 }
 
-.ses h1 {
+
+.footer-copyrights h1 {
     font-size: 20px;
-    color: #0e0e0e;
+    color: #0b0b0b;
     text-align: center;
     margin-left: 5px;
     margin-top: 40px;
@@ -801,25 +792,25 @@ li:hover a {
 .contact_info {
     font-size: 25px;
     top: 10px;
-    color: #0c0c0c;
+    color: #fff;
 }
 
 .social_info i {
     gap: 20px;
-    color: #131212;
+    color: #fff;
 }
 
-.how {
+.footer-address {
     margin-top: 10px;
-    color: #0b0b0b;
+    color: #f5f3f3;
 }
 
-.what {
+.footer-number {
     margin-top: 10px;
-    color: #020202;
+    color: #fff;
 }
 
-.why {
+.footer-gmail {
     margin-top: 10px;
-    color: #000000;
+    color: #fff
 }
