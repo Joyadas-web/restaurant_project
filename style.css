@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-.book {
+.btn-ber {
     height: 30px;
     background: #0d7e41;
     margin-top: -2px;
@@ -95,14 +95,14 @@ li>a {
 
 }
 
-.dolla {
+.list {
     position: relative;
     font-family: roboto;
     font-style: italic;
 
 }
 
-.sopna {
+.list-line {
     position: absolute;
     top: 40px;
     width: 250px;
@@ -111,7 +111,7 @@ li>a {
     margin-left: 150px;
 }
 
-.dolla:hover .sopna {
+.list:hover .list-line {
     display: block;
 }
 
@@ -207,14 +207,14 @@ li:hover a {
     display: block;
 }
 
-.red {
+.section-ber {
     display: flex;
     margin-top: 25px;
     border-bottom: 2px solid rgb(248, 247, 247);
 
 }
 
-.red img {
+.section-ber img {
     height: 60px;
     width: 80px;
     margin-left: 10px;
@@ -222,12 +222,12 @@ li:hover a {
 
 }
 
-.X {
+.last-line {
     margin-left: 100px;
     color: #000;
 }
 
-.y {
+.last-ber {
     margin-left: 150px;
     color: #000;
 }
@@ -247,12 +247,12 @@ li:hover a {
 /* .manu h1{
     font-size: 16px;
 } */
-.latter {
+.span_ber {
     display: flex;
     margin-top: 10px;
 }
 
-.latter h1 {
+.span_ber h1 {
     font-size: 20px;
     margin-left: 20px;
     margin-top: 5px;
@@ -291,7 +291,7 @@ li:hover a {
 
 }
 
-.sing {
+.signature-ber {
     margin-left: 550px;
     margin-top: -70px;
 
@@ -477,7 +477,7 @@ li:hover a {
     margin-top: -30px;
 }
 
-.margin4 {
+.Burton-ber {
     margin-top: 20px;
     margin-left: 130px;
 }
@@ -506,7 +506,7 @@ li:hover a {
     margin-top: -1px;
 }
 
-.bto {
+.Burton {
     padding: 10px 20px;
     background: hsla(140, 43%, 61%, 0.803);
     border: 2px solid hsl(180, 33%, 98%);
@@ -601,7 +601,7 @@ li:hover a {
     color: #12db76;
 }
 
-.joya2 {
+.from-section {
     /* border-bottom: 2px solid rgb(248, 243, 243); */
     width: 1000px;
     height: 400px;
@@ -614,7 +614,7 @@ li:hover a {
     font-size: 30px;
 }
 
-.right {
+.from-box {
     margin-top: 100px;
     font-family: roboto;
     font-style: italic;
@@ -635,7 +635,7 @@ li:hover a {
 
 }
 
-.boll {
+.button-ber {
     margin-top: -80px;
     margin-left: -10px;
     color: #0da061;
@@ -672,7 +672,7 @@ li:hover a {
     margin-left: -20px;
 }
 
-.joya3 h3 {
+.reservation-footer h3 {
     font-size: 30px;
     font-family: roboto;
     font-style: italic;
@@ -753,7 +753,7 @@ li:hover a {
     margin-left: 20px;
 }
 
-.ggg {
+.hr-line {
     border: none;
     border-bottom: 4px solid rgb(108, 206, 9);
     margin-left: 20px;
@@ -786,7 +786,7 @@ li:hover a {
 
 }
 
-.fifth {
+.list-ber {
     display: flex;
     justify-content: center;
     font-size: 20px;
@@ -811,8 +811,8 @@ li>a {
 
 }
 
-.fifth li:hover a {
-    border-bottom: 2px solid #0c0004;
+.list-ber li:hover a {
+    border-bottom: 2px solid #65ce85;
 }
 
 .number_ber {
@@ -823,7 +823,7 @@ li>a {
     margin-left: 200px;
 }
 
-.number0 {
+.number-btn {
     display: flex;
     align-items: center;
     width: 100%;
@@ -831,7 +831,7 @@ li>a {
     flex-direction: row;
 }
 
-.number0 h1 {
+.number-btn h1 {
     font-size: 25px;
     margin-left: 0;
     /* height: 10px; */
@@ -840,20 +840,20 @@ li>a {
 
 }
 
-.number5 {
+.number {
     font-size: 20px;
     margin-left: 0;
     color: #010900;
 }
 
-.num {
+.num-icon {
     margin-left: 0;
     margin-top: 40px;
     font-size: 25px;
     color: #505445;
 }
 
-.end {
+.last-container {
     font-size: 30px;
     text-align: center;
     color: #000e02;
@@ -901,11 +901,11 @@ li>a {
     color: #f3eded;
 }
 
-.number6 {
+/* .number6 {
     margin-right: 140px;
-}
+} */
 
-.joya {
+.btn-lg {
     margin-top: 0 auto;
     padding-top: 140px;
 }
@@ -925,19 +925,6 @@ li>a {
 
 }
 
-.joya h1 {
-    text-align: center;
-    font-size: 50px;
-    color: rgb(251, 253, 250);
-    /* margin-right: 110px; */
-    margin-top: -20px;
-}
-
-.joya h3 {
-    text-align: center;
-    font-size: 30px;
-    margin-top: -10px;
-}
 
 .last_icon {
     display: flex;
@@ -958,7 +945,7 @@ li>a {
     color: #42c1e8;
 }
 
-.coffee {
+.fifth-page {
     flex-direction: column;
     font-family: roboto;
     color: rgb(249, 250, 249);
@@ -1006,12 +993,12 @@ li>a {
     color: #000;
 }
 
-.rool {
+.subscribe {
     display: flex;
     margin-left: 150px;
 }
 
-.rool p {
+.subscribe p {
     font-size: 17px;
 
     margin-top: 60px;
@@ -1095,36 +1082,20 @@ li>a {
 
 
 
-.contain {
-    gap: 10px;
-}
-
-.you {
-
-    flex-direction: row;
-    font-family: roboto;
-    color: rgb(249, 250, 249);
-    height: 500px;
-    display: flex;
-    font-style: italic;
-    text-align: center;
-    justify-content: space-between;
-    top: 30px;
-}
 
 
 
-.ten {
+.footer-section1 {
     margin-left: 40px;
     margin-top: 150px;
 }
 
-.ten h1 {
+.footer-section1 h1 {
     font-size: 30px;
     color: #fff;
 }
 
-.ten p {
+.footer-section1 p {
     font-size: 15px;
     margin-top: 20px;
     color: #fff;
@@ -1137,6 +1108,15 @@ li>a {
 
 }
 
+.footer-section2 {
+    margin-top: 145px;
+}
+
+.footer-section2 h1 {
+    font-size: 33px;
+    color: #fff;
+}
+
 .lastpage h2 {
     font-size: 18px;
     margin-left: 90px;
@@ -1144,35 +1124,35 @@ li>a {
     color: #f4f8f5;
 }
 
-.finis img {
+.last-footer img {
     width: 80px;
     height: 70px;
     margin-top: 30px;
 }
 
-.nine {
+.footer-section1 {
     margin-top: 150px;
     /* margin-left: ;
      */
 }
 
-.finis h2 {
+.last-footer h2 {
     font-size: 18px;
     margin-top: -70px;
     margin-left: 90px;
     color: #f9f6f6;
 }
 
-.nine h1 {
+.footer-section1 h1 {
     font-size: 30px;
     color: #fff;
 }
 
-.saraboni {
+.footer-social-icons {
     margin-top: 150px;
 }
 
-.saraboni h1 {
+.footer-social-icons h1 {
     font-size: 30px;
     color: #fff;
 }
@@ -1219,7 +1199,7 @@ li>a {
     font-size: 25px;
 }
 
-.ses {
+.footer-copyrights {
     display: flex;
     background-color: #14c30ea7;
     height: 100px;
@@ -1233,15 +1213,15 @@ li>a {
 
 }
 
-.level {
+.footer-ber {
     display: flex;
 }
 
-.level i {
+.footer-ber i {
     color: #fff;
 }
 
-.level h3 {
+.footer-ber h3 {
     color: #fff;
 }
 
@@ -1254,7 +1234,8 @@ li>a {
     margin-top: 40px;
 }
 
-.ses h1 {
+
+.footer-copyrights h1 {
     font-size: 20px;
     color: #faf7f7;
     text-align: center;
@@ -1273,17 +1254,17 @@ li>a {
     color: #fff;
 }
 
-.how {
+.footer-address {
     margin-top: 10px;
     color: #f5f3f3;
 }
 
-.what {
+.footer-number {
     margin-top: 10px;
     color: #fff;
 }
 
-.why {
+.footer-gmail {
     margin-top: 10px;
     color: #fff
 }

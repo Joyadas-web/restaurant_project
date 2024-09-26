@@ -63,18 +63,18 @@ li>a {
 
 }
 
-.plp {
+.manu {
     margin-top: 20px;
 }
 
-.dolla {
+.list {
     position: relative;
     font-family: roboto;
     font-style: italic;
 
 }
 
-.sopna {
+.list-line {
     position: absolute;
     top: 40px;
     width: 250px;
@@ -83,7 +83,7 @@ li>a {
     margin-left: 150px;
 }
 
-.dolla:hover .sopna {
+.list:hover .list-line {
     display: block;
 }
 
@@ -140,7 +140,7 @@ li:hover a {
 .textline {
     font-size: 15px;
     margin-left: 3px;
-    margin-top: 5px;
+    margin-top: -8px;
     color: #000;
 }
 
@@ -162,14 +162,14 @@ li:hover a {
     display: block;
 }
 
-.red {
+.section-ber {
     display: flex;
     margin-top: 25px;
     border-bottom: 2px solid rgb(248, 247, 247);
 
 }
 
-.red img {
+.section-ber img {
     height: 60px;
     width: 80px;
     margin-left: 10px;
@@ -177,12 +177,12 @@ li:hover a {
 
 }
 
-.X {
+.last-line {
     margin-left: 100px;
     color: #000;
 }
 
-.y {
+.last-ber {
     margin-left: 150px;
     color: #000;
 }
@@ -200,12 +200,12 @@ li:hover a {
 /* .manu h1{
     font-size: 16px;
 } */
-.latter {
+.span_ber {
     display: flex;
     margin-top: 10px;
 }
 
-.latter h1 {
+.span_ber h1 {
     font-size: 20px;
     margin-left: 20px;
     margin-top: 5px;
@@ -221,7 +221,7 @@ li:hover a {
     color: rgba(158, 237, 12, 0.674);
 }
 
-.book {
+.btn-ber {
     height: 30px;
     background: #0d7e41;
     margin-top: -2px;
@@ -445,20 +445,20 @@ li>a {
 
 
 
-.pi {
+.pic-ber {
     height: 200px;
     width: 300px;
     margin-top: 20px;
 
 }
 
-.pp {
+.pic-ber2 {
     height: 200px;
     width: 300px;
     margin-top: 20px;
 }
 
-.no {
+.box-section {
     position: absolute;
     top: 40px;
 
@@ -478,7 +478,7 @@ li>a {
     width: 300px;
 }
 
-.non {
+.section-box2 {
     position: absolute;
     top: 40px;
 
@@ -489,33 +489,33 @@ li>a {
     margin-top: -15px;
 }
 
-.non h3 {
+.section-box2 h3 {
     font-size: 25px;
     margin-top: 40px;
 }
 
-.non p {
+.section-box2 p {
     font-size: 22px;
 }
 
-.picture4:hover .non {
+.picture4:hover .section-box2 {
     display: block;
 }
 
-.bo {
+.span-ber {
     font-size: 30px;
 }
 
-.no h3 {
+.box-section h3 {
     font-size: 25px;
     margin-top: 40px;
 }
 
-.no p {
+.box-section p {
     font-size: 22px;
 }
 
-.picture2:hover .no {
+.picture2:hover .box-section {
     display: block;
 }
 
@@ -532,7 +532,7 @@ li>a {
 
 }
 
-.fff {
+.title {
     font-size: 60px;
     text-align: center;
     margin-top: 0 auto;
@@ -540,7 +540,7 @@ li>a {
     color: hsl(181, 85%, 45%);
 }
 
-.fgf {
+.title-ber {
     font-size: 30px;
 
     font-family: roboto;
@@ -594,19 +594,19 @@ li>a {
     gap: 30px;
 }
 
-.template {
+.fifth-page {
     background-color: aquamarine;
     height: 1200px;
 }
 
-.template h1 {
+.fifth-page h1 {
     font-size: 50px;
     margin-left: 600px;
     margin-top: 0 auto;
     padding-top: 30px;
 }
 
-.template h3 {
+.fifth-page h3 {
     font-size: 30px;
     margin-left: 400px;
 }
@@ -620,7 +620,7 @@ li>a {
 
 
 
-.too {
+.image-ber {
     height: 180px;
     width: 300px;
     margin-left: 0;
@@ -631,14 +631,14 @@ li>a {
 
 }
 
-.to {
+.image-ber2 {
     height: 180px;
     width: 300px;
     margin-left: 0;
 
 }
 
-.bb {
+.lastspan {
     font-size: 30px;
     margin-left: 100px;
     color: hsl(341, 82%, 52%);
@@ -673,26 +673,26 @@ li>a {
 
 
 
-.fly {
+.six-page {
     background: #b8a9a9;
     height: 200px;
 }
 
-.rool {
+.title2 {
     display: flex;
     margin-left: 150px;
 
     font-size: 25px;
 }
 
-.rool p {
+.title2 p {
     font-size: 17px;
 
     margin-top: 100px;
     margin-left: 20px;
 }
 
-.rool h1 {
+.title2 h1 {
     font-size: 50px;
     margin-top: 60px;
 }
@@ -715,7 +715,7 @@ li>a {
     margin-top: 5px;
 }
 
-.hello {
+.btn-ber2 {
     margin-top: -15px;
 }
 
@@ -737,27 +737,28 @@ li>a {
 
 .eight_page {
     display: flex;
-    background: url(./ahdoos-1.jpg.webp);
+    background: url(./images7.jpeg);
     background-size: cover;
     gap: 90px;
     height: 500px;
 
 }
 
-.ten {
+
+.footer-section1 {
     margin-left: 40px;
     margin-top: 150px;
 }
 
-.ten h1 {
+.footer-section1 h1 {
     font-size: 30px;
-    color: #121111;
+    color: #fff;
 }
 
-.ten p {
+.footer-section1 p {
     font-size: 15px;
     margin-top: 20px;
-    color: #0c0c0c;
+    color: #fff;
 }
 
 .photo {
@@ -767,96 +768,100 @@ li>a {
 
 }
 
+.footer-section2 {
+    margin-top: 145px;
+}
+
+.footer-section2 h1 {
+    font-size: 33px;
+    color: #fff;
+}
+
 .lastpage h2 {
     font-size: 18px;
     margin-left: 90px;
     margin-top: -70px;
-    color: #0f0f0f;
+    color: #f4f8f5;
 }
 
-.finis img {
+.last-footer img {
     width: 80px;
     height: 70px;
     margin-top: 30px;
 }
 
-.nine {
+.footer-section1 {
     margin-top: 150px;
     /* margin-left: ;
      */
 }
 
-.finis h2 {
+.last-footer h2 {
     font-size: 18px;
     margin-top: -70px;
     margin-left: 90px;
-    color: #090909;
+    color: #f9f6f6;
 }
 
-.nine h1 {
+.footer-section1 h1 {
     font-size: 30px;
-    color: #020000;
+    color: #fff;
 }
 
-.saraboni {
+.footer-social-icons {
     margin-top: 150px;
 }
 
-.saraboni h1 {
+.footer-social-icons h1 {
     font-size: 30px;
-    color: #040404;
+    color: #fff;
 }
 
 .social_info {
-    font-size: 32px;
+    font-size: 35px;
     margin-top: 20px;
     color: #fff;
-    border-bottom: 2px solid rgba(255, 252, 252, 0.859);
-    border: 6px solid rgba(82, 82, 82, 0.788);
+    border-bottom: 2px solid black;
+    border: 6px solid rgba(0, 0, 0, 0.381);
     width: 250px;
-    background-color: #fff;
+    background-color: #00000033;
+
 }
 
 .fa-facebook-official {
     margin-left: 10px;
     font-size: 25px;
     margin-top: 10px;
-
 }
 
 .fa-twitter {
     margin-left: 10px;
     font-size: 25px;
-
 }
 
 .fa-instagram {
     margin-left: 10px;
     font-size: 25px;
-    color: #fff;
 }
 
 .fa-linkedin-square {
     margin-left: 10px;
     font-size: 25px;
-    color: #fff;
 }
 
 .fa-linkedin {
     margin-left: 10px;
     font-size: 25px;
-    color: #fff;
 }
 
 .fa-pinterest-p {
     margin-left: 10px;
     font-size: 25px;
-    color: #fff;
 }
 
-.ses {
+.footer-copyrights {
     display: flex;
-    background-color: #99b298a7;
+    background-color: #959895a7;
     height: 100px;
 
 
@@ -868,28 +873,31 @@ li>a {
 
 }
 
-.level {
+.footer-ber {
     display: flex;
 }
 
-.level i {
-    color: #060606;
+.footer-ber i {
+    color: #fcf9f9;
 }
 
-.level h3 {
-    color: #111111;
+.footer-ber h3 {
+    color: #f2efef;
 }
 
-.ses i {
+
+.fa-copyright {
+
     font-size: 20px;
-    color: #0a0a0a;
-    margin-left: 500px;
+    color: #f3efef;
+    margin-left: 540px;
     margin-top: 40px;
 }
 
-.ses h1 {
+
+.footer-copyrights h1 {
     font-size: 20px;
-    color: #0e0e0e;
+    color: #faf7f7;
     text-align: center;
     margin-left: 5px;
     margin-top: 40px;
@@ -898,25 +906,25 @@ li>a {
 .contact_info {
     font-size: 25px;
     top: 10px;
-    color: #0c0c0c;
+    color: #fff;
 }
 
 .social_info i {
     gap: 20px;
-    color: #131212;
+    color: #fff;
 }
 
-.how {
+.footer-address {
     margin-top: 10px;
-    color: #0b0b0b;
+    color: #f5f3f3;
 }
 
-.what {
+.footer-number {
     margin-top: 10px;
-    color: #020202;
+    color: #fff;
 }
 
-.why {
+.footer-gmail {
     margin-top: 10px;
-    color: #000000;
+    color: #fff
 }
